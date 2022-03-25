@@ -1,0 +1,22 @@
+To do:
+    - Create a final "card check" against players to determine winner after player/dealer cycle through loops
+    - Implement stats tracker
+    - Format a standout printout method to insert into each loop that prints, player/dealer cards, player cash.
+
+
+
+
+16 January 2022:
+    - Wrote the last functions. Worked on the logic for the player and dealer's turns. 
+    - Played with 'while' loops and if/elif/else statements, found a general structure.
+
+16 January 2022:
+    - Logic and looping sorted out. 
+    - Game largely finished
+    - Final formatting of print to make game more readable on command line and easier to track play.
+    
+17 January 2022:
+    - After player landed soft hand and selected NOT to play the Ace as a 1. The game skipped
+      skipped over the function to ask if the player would like to hit and automatically awarded
+      a win to the dealer even though the dealer had a lower hand. Investigate.
+    - Made formatting changes to printouts in the terminal. Formatted code for better readability.

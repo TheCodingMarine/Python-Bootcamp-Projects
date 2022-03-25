@@ -1,0 +1,9 @@
+Find_The_Phone_Number.py
+- demonstrates os walking and regex in Python
+- requires additional files that were given as part of assignment. 
+
+
+We_Scraping_Script.py
+- demonstrates web scraping using Python
+- retrieves all unique authors from a website
+- Aware that Einstein appears twice
